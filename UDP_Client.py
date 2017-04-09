@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib import style
 
-UDP_IP = "192.168.1.33"
+UDP_IP = "192.168.1.XX"
 UDP_PORT = 3000
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)  # UDP
